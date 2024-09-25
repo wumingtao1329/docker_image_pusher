@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 itzg/minecraft-server
 itzg/minecraft-server:java11-jdk
+itzg/minecraft-server:java17
