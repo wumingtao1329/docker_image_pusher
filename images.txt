@@ -4,7 +4,18 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-itzg/minecraft-server
-itzg/minecraft-server:java11-jdk
-itzg/minecraft-server:java17
 itzg/minecraft-server:java8
+itzg/minecraft-server:java8-alpine
+itzg/minecraft-server:java8-jdk
+itzg/minecraft-server:java8-openj9
+itzg/minecraft-server:java8-graalvm-ce
+itzg/minecraft-server:java11
+itzg/minecraft-server:java17
+itzg/minecraft-server:java17-graalvm
+itzg/minecraft-server:java17-alpine
+itzg/minecraft-server:java21
+itzg/minecraft-server:java21-jdk
+itzg/minecraft-server:java21-alpine
+itzg/minecraft-server:java21-graalvm
+itzg/minecraft-server:latest
+itzg/minecraft-server:stable
