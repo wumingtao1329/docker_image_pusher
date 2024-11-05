@@ -19,3 +19,4 @@ itzg/minecraft-server:java21-alpine
 itzg/minecraft-server:java21-graalvm
 itzg/minecraft-server:latest
 itzg/minecraft-server:stable
+mysql:8.0
